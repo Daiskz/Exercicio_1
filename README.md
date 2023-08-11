@@ -1,10 +1,10 @@
 ## Projeto Modelo para Atividade Java X GitHub
 
-Sejam bem-vindos ao projeto.
+Bem vindo ao projeto!
 
 ## Enunciado
 
-Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+Faça um Programa que mostre a mensagem "Hello World" na tela.
 
 ## Dependency Management
 
